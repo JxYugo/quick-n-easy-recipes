@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quick n\' Easy Recipes</string>
+    <string name="api_key">f2960926a04b4fca8ff1cb47981cdf75</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>drink</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tags">Tags</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About</string>
+    <string name="featured_recipes">Featured Recipes</string>
+    <string name="create_a_quick_n_easy_meals_account">Create a Quick n\' Easy Recipes account</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="email">Email Address</string>
+    <string name="enter_email">Enter Email Address</string>
+    <string name="password">Password</string>
+    <string name="select_allergies">Select Allergies</string>
+    <string name="allergy_gluten">Gluten</string>
+    <string name="allergy_nuts">Nuts</string>
+    <string name="allergy_lactose">Lactose</string>
+    <string name="register">Register</string>
+    <string name="or_if_you_already_have_an_account">Or if you already have an account</string>
+    <string name="login">Login</string>
+    <string name="login_to_your_quick_n_easy_recipes_account">Login to your Quick n\' Easy Recipes account</string>
+    <string name="or_if_you_don_t_have_an_account">Or if you don\'t have an account</string>
+    <string name="allergies">Allergies</string>
+    <string name="your_quick_n_easy_recipes_account">Your Quick n\' Easy Recipes account</string>
+    <string name="loading">Loading...</string>
+    <string name="about_app_2">About App</string>
+    <string name="about_message">This app was created in compliance for the requirements of Software Engineering.
+        \n\nFuture updates that will add more features for the app are at plans.
+        \n\nDevelopers:
+        \n\nJames Xander Yugo\nPaulene Pacalda\nJoesant Cordova\nDenzel Saraus\nJohn Kyle Cuarteros\nRuperto Japay III</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="enter_password">Enter your Password</string>
+</resources>

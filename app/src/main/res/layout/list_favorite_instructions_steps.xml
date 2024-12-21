@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/darkGreen"
+    app:cardElevation="10dp"
+    android:layout_margin="4dp"
+    app:cardCornerRadius="30dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textView_favorite_instruction_step_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textAlignment="center"
+                android:padding="10dp"
+                android:textColor="@color/lightGreen" />
+            <TextView
+                android:id="@+id/textView_favorite_instruction_step_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Step Name"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:textSize="18sp"
+                android:textAlignment="textStart"
+                android:textColor="@color/lightGreen" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

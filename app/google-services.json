@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964734639341",
+    "project_id": "quick-n--easy-recipes",
+    "storage_bucket": "quick-n--easy-recipes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964734639341:android:8bbd51791cbf8bbce5c0e4",
+        "android_client_info": {
+          "package_name": "com.softwareengineering.recipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZ1rYmcGAboGNLmuuvopq4BMFh-IBX_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
